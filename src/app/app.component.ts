@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'marvel-angular';
+  hero = {
+    name: 'HULK',
+    description: 'Hulk loves to SMASH!'
+  };
 }
