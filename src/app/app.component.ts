@@ -8,7 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'marvel-angular';
   hero = {
-    name: 'HULK',
-    description: 'Hulk loves to SMASH!'
+    name: 'SPIDER-MAN',
+    description: 'Spider-Man is a character created by Stan Lee in...',
+    image: 'spider.jpg'
   };
 }
